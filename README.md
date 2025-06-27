@@ -8,6 +8,7 @@ How to Run: (Python)
 3.	Open Python file HuntTheWumpus.py
 
 4.	Run program
+
 How to Run: (Java)
 1.	Install Java (Extension of Visual Studio Code)
 
@@ -20,4 +21,7 @@ How to Run: (Java)
 
 3.	Open Java file - HuntTheWumpus.java
 
-4.	Run program
+4.	Drag image file out of main file (if you have not already)
+
+5.	Run program
+
